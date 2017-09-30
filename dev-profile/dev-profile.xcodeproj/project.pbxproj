@@ -54,8 +54,8 @@
 		C80093A51F800A0C006E35C4 /* dev-profile */ = {
 			isa = PBXGroup;
 			children = (
-				C80093A61F800A0C006E35C4 /* AppDelegate.swift */,
 				C80093A81F800A0C006E35C4 /* ViewController.swift */,
+				C80093A61F800A0C006E35C4 /* AppDelegate.swift */,
 				C80093AA1F800A0C006E35C4 /* Main.storyboard */,
 				C80093AD1F800A0C006E35C4 /* Assets.xcassets */,
 				C80093AF1F800A0C006E35C4 /* LaunchScreen.storyboard */,
